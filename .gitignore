@@ -1,0 +1,10 @@
+# written by the workbook when it runs
+bundle/
+*.zip
+invent_a_londoner.html
+draw_a_day.html
+real_or_synthetic.html
+make_a_londoner.html
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
