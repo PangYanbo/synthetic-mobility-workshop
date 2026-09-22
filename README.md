@@ -2,7 +2,8 @@
 
 Materials for **An Interactive Workshop on Synthetic Mobility Data Generation**, UCL Centre for
 Advanced Spatial Analysis (CASA), London, 29 September 2026. Hosted by UCL CASA and the PHOTO
-Research Team.
+Research Team. Event page and booking:
+https://www.eventbrite.co.uk/e/an-interactive-workshop-on-synthetic-mobility-data-generation-tickets-1999713873025
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PangYanbo/synthetic-mobility-workshop/blob/main/public_lab.ipynb)
 
