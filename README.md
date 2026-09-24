@@ -8,20 +8,16 @@ https://www.eventbrite.co.uk/e/an-interactive-workshop-on-synthetic-mobility-dat
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PangYanbo/synthetic-mobility-workshop/blob/main/public_lab.ipynb)
 
-## The workshop
+## Overview
 
-Real mobility data tells you where people actually go, and when. It is some of the most
-valuable material urban research has, and some of the hardest to share: getting hold of it takes
-agreements and months, and even then it usually cannot be passed on. Synthetic mobility data is
-one attempt at a way round that: instead of releasing records of real journeys, you train a model
-on them and generate days that belong to nobody. It is a young idea, and it is not settled. How
-faithful the output really is, and how much of it could safely be published, are both open
-questions.
+Real mobility data tells you where people go, and when. It is valuable for urban research and
+hard to share. Synthetic mobility data is one attempt at a way round that: instead of releasing
+records of real journeys, you train a model on them and generate days that belong to nobody. It
+is a young idea, and it is not settled. How faithful the output really is, and how much of it
+could safely be published, are both open questions.
 
-This is an afternoon on exactly those questions. Participants make some of this data, try to
-break it, and help judge it. Nothing personal is shown at any point: places appear as
-neighbourhoods, never as points, no raw record goes on screen, and everything submitted is
-deleted at the end of the day.
+This is an afternoon on those questions. Participants make some of this data, compare it with
+real data, and help judge it.
 
 | Time | Session |
 |---|---|
