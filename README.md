@@ -1,11 +1,40 @@
 # Synthetic mobility data: interactive workshop materials
 
-Materials for **An Interactive Workshop on Synthetic Mobility Data Generation**, UCL Centre for
-Advanced Spatial Analysis (CASA), London, 29 September 2026. Hosted by UCL CASA and the PHOTO
-Research Team. Event page and booking:
+Materials for **An Interactive Workshop on Synthetic Mobility Data Generation**, hosted by the
+UCL Centre for Advanced Spatial Analysis (CASA) and the PHOTO Research Team.
+Tuesday 29 September 2026, 12:30 to 17:00, Maple House Room 216, 149 Tottenham Court Road, London.
+Event page and booking:
 https://www.eventbrite.co.uk/e/an-interactive-workshop-on-synthetic-mobility-data-generation-tickets-1999713873025
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PangYanbo/synthetic-mobility-workshop/blob/main/public_lab.ipynb)
+
+## The workshop
+
+Real mobility data tells you where people actually go, and when. It is some of the most
+valuable material urban research has, and some of the hardest to share: getting hold of it takes
+agreements and months, and even then it usually cannot be passed on. Synthetic mobility data is
+one attempt at a way round that: instead of releasing records of real journeys, you train a model
+on them and generate days that belong to nobody. It is a young idea, and it is not settled. How
+faithful the output really is, and how much of it could safely be published, are both open
+questions.
+
+This is an afternoon on exactly those questions. Participants make some of this data, try to
+break it, and help judge it. Nothing personal is shown at any point: places appear as
+neighbourhoods, never as points, no raw record goes on screen, and everything submitted is
+deleted at the end of the day.
+
+| Time | Session |
+|---|---|
+| 12:30 | Lunch and set-up |
+| 13:00 | **Welcome: why synthetic mobility data?** (talk) |
+| 13:20 | **Hands-on I: generating a day by hand, and checking it against the data.** Invent one ordinary day in someone's life, what they do and roughly where; then see real observed days alongside the room's inventions. |
+| 14:00 | **Talk: generating and evaluating synthetic human mobility data.** How synthetic days are produced, the main families of method in use today, and what is known about where each falls short. Streamed; can be booked on its own. |
+| 15:00 | Break |
+| 15:20 | **Hands-on II: telling real from generated, and trying the methods.** A blind test, real days and generated ones side by side; then generate days with each method on your own laptop and compare them. |
+| 16:00 | **Discussion: what is this data good for, and where are the limits?** In small groups: what you would use it for, and what has to hold before that use is acceptable. What each group decides is written down and goes into the project's record of what may eventually be published. |
+
+Bring a laptop. No coding, no preparation and no prior knowledge are needed: everything runs in a
+browser, and every step is something you click.
 
 ## What is here
 
