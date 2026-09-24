@@ -30,8 +30,15 @@ The current release is **mock data for rehearsal**: every day in it was generate
 and none of it describes a real person. The data used on the day will be published as a new
 release, and the workbook always downloads the newest one.
 
-In every release, places are shown as hexagons about 300 m across (H3 resolution 9), never as
-exact points, and there are no personal identifiers.
+In every release, places are shown as areas (a neighbourhood, or for the rehearsal data a
+hexagon about 300 m across), never as exact points, and there are no personal identifiers.
+
+## Reading
+
+The background to the workshop's talk is our review of how synthetic mobility data is
+generated and what it can and cannot do:
+
+Pang, Zhong, Gao and Sekimoto (2026), *Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities*, arXiv:2609.21413, https://arxiv.org/abs/2609.21413
 
 ## Licence
 
