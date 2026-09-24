@@ -33,10 +33,9 @@ release, and the workbook always downloads the newest one.
 In every release, places are shown as areas (a neighbourhood, or for the rehearsal data a
 hexagon about 300 m across), never as exact points, and there are no personal identifiers.
 
-## Reading
+## Reference
 
-The background to the workshop's talk is our review of how synthetic mobility data is
-generated and what it can and cannot do:
+Our survey of existing methods for generating synthetic mobility data, cited in the talk:
 
 Pang, Zhong, Gao and Sekimoto (2026), *Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities*, arXiv:2609.21413, https://arxiv.org/abs/2609.21413
 
