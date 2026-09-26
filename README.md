@@ -42,9 +42,9 @@ browser, and every step is something you click.
 ## How to use it
 
 1. Click **Open in Colab** above and sign in with a Google account.
-2. Press ▶ on **① Get ready** and wait for `Ready.`
-3. Work through the steps in order when the session reaches them: **② Draw a day**,
-   **③ Try the methods**, **④ Real or synthetic?**.
+2. Press ▶ on **Get ready** and wait for `Ready.`
+3. Work through the steps in order when the session reaches them: **① Draw a day**,
+   **② Try the methods**, **③ Real or synthetic?**.
 
 Each step ends with a short code that you paste into a form, which is how your answer reaches
 the screen in the room.
