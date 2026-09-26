@@ -26,7 +26,7 @@ real data, and help judge it.
 | 13:20 | **Hands-on I: generating a day by hand, and checking it against the data.** Invent one ordinary day in someone's life, what they do and roughly where; then see real observed days alongside the room's inventions. |
 | 14:00 | **Talk: generating and evaluating synthetic human mobility data.** How synthetic days are produced, the main families of method in use today, and what is known about where each falls short. Streamed; can be booked on its own. |
 | 15:00 | Break |
-| 15:20 | **Hands-on II: telling real from generated, and trying the methods.** A blind test, real days and generated ones side by side; then generate days with each method on your own laptop and compare them. |
+| 15:20 | **Hands-on II: trying the methods, and telling real from generated.** Generate days with each method on your own laptop and compare them; then a blind test, real days and generated ones side by side. |
 | 16:00 | **Discussion: what is this data good for, and where are the limits?** In small groups: what you would use it for, and what has to hold before that use is acceptable. What each group decides is written down and goes into the project's record of what may eventually be published. |
 
 Bring a laptop. No coding, no preparation and no prior knowledge are needed: everything runs in a
@@ -44,7 +44,7 @@ browser, and every step is something you click.
 1. Click **Open in Colab** above and sign in with a Google account.
 2. Press ▶ on **① Get ready** and wait for `Ready.`
 3. Work through the steps in order when the session reaches them: **② Draw a day**,
-   **③ Real or synthetic?**, **④ Try the methods**.
+   **③ Try the methods**, **④ Real or synthetic?**.
 
 Each step ends with a short code that you paste into a form, which is how your answer reaches
 the screen in the room.
