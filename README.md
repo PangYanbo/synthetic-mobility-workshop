@@ -58,11 +58,15 @@ release, and the workbook always downloads the newest one.
 In every release, places are shown as areas (a neighbourhood, or for the rehearsal data a
 hexagon about 300 m across), never as exact points, and there are no personal identifiers.
 
-## Reference
+## References
 
 Our survey of existing methods for generating synthetic mobility data, cited in the talk:
 
 Pang, Zhong, Gao and Sekimoto (2026), *Synthetic Human Mobility Data Generation: A Structured Review of Representations, Methods, and Practical Capabilities*, arXiv:2609.21413, https://arxiv.org/abs/2609.21413
+
+The pipeline that turns the raw location data into stays, home and work places, and activities:
+
+Zhong, C., Zhou, Z., Aslam, N.S. et al. Anonymised human location data in England for urban mobility research. *Sci Data* 12, 2040 (2025). https://doi.org/10.1038/s41597-025-06323-8
 
 ## Licence
 
